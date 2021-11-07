@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritik2727" alt="ritik2727" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ritik2727" target="blank"><img src="https://img.shields.io/twitter/follow/ritik2727?logo=twitter&style=for-the-badge" alt="ritik2727" /></a> </p>
 
 - 🔭 I’m currently working on [Ecommerce website](https://github.com/piyushpp07/ShoppingAdda)
 
