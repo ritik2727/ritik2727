@@ -1,4 +1,3 @@
-[![MasterHead](https://drive.google.com/file/d/1XEGkv4BudrIehX_16BQJYewYg97-HIqV/view?usp=sharing)](https://www.linkedin.com/in/ritik-jain-3b2208217/)
 <h1 align="center">Hi 👋, I'm Ritik Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
