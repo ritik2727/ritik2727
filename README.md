@@ -1,3 +1,5 @@
+
+[![MasterHead](https://pbs.twimg.com/profile_banners/1460197858301202434/1636973352/1080x360)](https://www.linkedin.com/in/ritik-jain-3b2208217/)
 <h1 align="center">Hi 👋, I'm Ritik Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
