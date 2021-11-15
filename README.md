@@ -16,7 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ritik2727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritik2727" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/github.com/ritik2727/ecommerce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="github.com/ritik2727/ecommerce" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/ritik-jain-3b2208217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="github.com/ritik2727/ecommerce" height="30" width="40" /></a>
+  
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8ewmkyfxavtphv8v0gcffq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8ewmkyfxavtphv8v0gcffq" height="30" width="40" /></a>
 </p>
 
