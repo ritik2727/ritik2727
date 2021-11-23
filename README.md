@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Ecommerce website](github.com/ritik2727/ecommerce)
+- 🔭 I’m currently working on [Portfolio](https://github.com/ritik2727/portfolio)
 
 - 🌱 I’m currently learning **React Native**
 
