@@ -6,13 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik2727&label=Profile%20views&color=0e75b6&style=flat" alt="ritik2727" /> </p>
 
 
-
-- 🔭 I’m currently working on [Portfolio](https://github.com/ritik2727/portfolio)
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **React Js ,Firebase , Javascript ,C++ ,Python ,Node Js**
-
 - 📫 How to reach me **reactjsdeveloper45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
