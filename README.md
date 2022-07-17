@@ -5,8 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik2727&label=Profile%20views&color=0e75b6&style=flat" alt="ritik2727" /> </p>
 
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website](https://portfolio-rust-iota.vercel.app/)**
 
 - 📫 How to reach me **reactjsdeveloper45@gmail.com**
+
 
 ## ❤️ Let's get connected:
 
