@@ -40,8 +40,12 @@
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" height="25px"/> 
 </p>
 
+<br>
+
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ritik2727&theme=react" alt="ritik2727" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ritik2727&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Ritik Jain" align="center" width="48%"/>
+</div>
+<br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik2727&show_icons=true&locale=en&layout=compact" alt="ritik2727" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik2727&show_icons=true&locale=en" alt="ritik2727" /></p>
