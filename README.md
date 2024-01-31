@@ -9,7 +9,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website]([[https://ritikjain.tech/](https://portfolio-rust-iota.vercel.app/)](https://portfolio-rust-iota.vercel.app/))**
+-  🙋‍♂️ All about me is at **[My Website](https://portfolio-rust-iota.vercel.app/)**
 
 - 📫 How to reach me **reactjsdeveloper45@gmail.com**
 
